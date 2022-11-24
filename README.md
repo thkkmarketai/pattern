@@ -1,6 +1,7 @@
+
 ## **パターン / Patterns**
 
-　プロジェクトの詳細については、以下のリンクをご参照ください。
+　thkkmarketai.github.io、及びプロジェクトの詳細については、以下のリンクをご参照ください。
 
 - [thkkmarketai.github.io](https://thkkmarketai.github.io)
 - [about](https://thkkmarketai.github.io/about)
@@ -14,8 +15,7 @@
 
 &emsp;
 
-### **License**
----
+## **License**
 -
 
 &emsp;
