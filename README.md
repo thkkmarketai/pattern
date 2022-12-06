@@ -1,4 +1,3 @@
-
 ## **パターン / Patterns**
 
 　thkkmarketai.github.io、及びプロジェクトの詳細については、以下のリンクをご参照ください。
