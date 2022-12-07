@@ -1,4 +1,4 @@
-## **パターン分析 / Analyzing Patterns**
+## **パターン分析 / Pattern Analysis**
 
 　thkkmarketai.github.io、及びプロジェクトの詳細については、以下のリンクをご参照ください。
 
@@ -9,10 +9,10 @@
 
 &emsp;
 
-1. テクニカルチャート / technical chart
-2. 統計的な周期性 / statistical cycle
-3. マーケットトーク / market talk
-4. アノマリー / anomaly
+1. テクニカルチャート / Technical Chart
+2. アノマリー / Anomaly
+3. 統計的な周期性 / Statistical Cycle
+4. マーケットトーク / Market Talk
 
 &emsp;
 
