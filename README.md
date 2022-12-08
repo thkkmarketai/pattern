@@ -11,7 +11,7 @@
 
 1. テクニカルチャート / Technical Chart
 2. アノマリー / Anomaly
-3. 統計的な周期性 / Statistical Cycle
+3. 統計 / Statistics
 4. マーケットトーク / Market Talk
 
 &emsp;
